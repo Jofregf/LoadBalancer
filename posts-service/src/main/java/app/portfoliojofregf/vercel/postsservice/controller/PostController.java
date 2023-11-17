@@ -27,5 +27,3 @@ public class PostController {
         return postService.getPostByUser(user_id);
     }
 }
-
-// DEJE EL VIDEO EN 18:23
